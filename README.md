@@ -1,16 +1,18 @@
 ## Hi there 👋
 
 <!--
-**spsthebest/spsthebest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey! I'm Shaurya, a 19 y/o from New Delhi, India. I love exploring new ideas, meeting new people, solving problems, and building cool projects! I'm really interested in everything AI, BCIs, Blockchain and Biological Computing. I am on an exhilarating journey to revolutionize the field of medical science and technology. As a dedicated researcher, my focus lies in integrating BCIs, optogenetics, and AI to create a dynamic medical system. My ultimate goal is to develop a groundbreaking solution that will help cure post-brain stroke paralysis without the need for therapy. By pushing the boundaries of innovation, I aim to improve the lives of countless individuals and make a lasting impact on the world.
 
-Here are some ideas to get you started:
+🚀 Entrepreneurial Spirit:
+In addition to my research endeavors, I am a driven entrepreneur. Currently, I am spearheading the development of a startup based on Maps and safety. With a passion for creating innovative solutions, I strive to build products that enhance people's lives and reshape industries.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🧬 Biological Computing:
+One of my latest fascinations lies in the intriguing field of DNA computing. I am delving into the realm of biological computing, exploring the remarkable potential of utilizing DNA as a computational tool. By harnessing the power of nature, I aim to unlock new frontiers in information processing and problem-solving. Stay tuned for an exciting project that I'm working on in this captivating field!
+
+🌍 Empowering Education:
+I firmly believe in the power of education to transform lives. As a devoted advocate, I have actively contributed to the community by founding educational NGOs. Through these initiatives, I have had the privilege of teaching and designing computer science curriculums for over 300 underprivileged children in Delhi. Empowering others with knowledge and skills is a cause close to my heart. I also coded a fun sybersecurity quiz app to educate them about cyber fraud.
+
+I look forward to connecting with like-minded individuals who share a passion for pushing boundaries and creating a better world. Feel free to reach out to me, and I would love to chat 👋!
+
+📍 New Delhi 🇮🇳 | Seattle 🇺🇲| 📧 shaurya4@uw.edu
 -->
