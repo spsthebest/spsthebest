@@ -1,7 +1,5 @@
-## Hi there 👋
-
-<!--
-Hey! I'm Shaurya, a 19 y/o from New Delhi, India. I love exploring new ideas, meeting new people, solving problems, and building cool projects! I'm really interested in everything AI, BCIs, Blockchain and Biological Computing. I am on an exhilarating journey to revolutionize the field of medical science and technology. As a dedicated researcher, my focus lies in integrating BCIs, optogenetics, and AI to create a dynamic medical system. My ultimate goal is to develop a groundbreaking solution that will help cure post-brain stroke paralysis without the need for therapy. By pushing the boundaries of innovation, I aim to improve the lives of countless individuals and make a lasting impact on the world.
+## Hey! I'm Shaurya, 
+a 19 y/o from New Delhi, India. I love exploring new ideas, meeting new people, solving problems, and building cool projects! I'm really interested in everything AI, BCIs, Blockchain and Biological Computing. I am on an exhilarating journey to revolutionize the field of medical science and technology. As a dedicated researcher, my focus lies in integrating BCIs, optogenetics, and AI to create a dynamic medical system. My ultimate goal is to develop a groundbreaking solution that will help cure post-brain stroke paralysis without the need for therapy. By pushing the boundaries of innovation, I aim to improve the lives of countless individuals and make a lasting impact on the world.
 
 🚀 Entrepreneurial Spirit:
 In addition to my research endeavors, I am a driven entrepreneur. Currently, I am spearheading the development of a startup based on Maps and safety. With a passion for creating innovative solutions, I strive to build products that enhance people's lives and reshape industries.
@@ -15,4 +13,4 @@ I firmly believe in the power of education to transform lives. As a devoted advo
 I look forward to connecting with like-minded individuals who share a passion for pushing boundaries and creating a better world. Feel free to reach out to me, and I would love to chat 👋!
 
 📍 New Delhi 🇮🇳 | Seattle 🇺🇲| 📧 shaurya4@uw.edu
--->
+
