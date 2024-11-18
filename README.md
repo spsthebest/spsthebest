@@ -1,5 +1,5 @@
 ## Hey! I'm Shaurya, 
-I’m an undergraduate student specializing in Computer Science at the University of Washington, Seattle, with a keen interest in Brain-Computer Interfaces (BCIs), Artificial Intelligence, and Biological Computing. My journey revolves around exploring the intersection of technology and biology to address real-world challenges.
+I’m an undergraduate student with a sparking interest in Computer Science at the University of Washington, Seattle, with a keen interest in Brain-Computer Interfaces (BCIs), Artificial Intelligence, and Biological Computing. My journey revolves around exploring the intersection of technology and biology to address real-world challenges.
 
 As a passionate researcher, my focus lies in integrating BCIs, optogenetics, and AI to create transformative medical solutions. My current goal is to develop a system that cures post-stroke paralysis without the need for traditional therapy, pushing the boundaries of medical science and innovation.
 
